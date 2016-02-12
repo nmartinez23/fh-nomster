@@ -2,8 +2,15 @@ source 'https://rubygems.org'
 
 gem 'rails_12factor', group: :production
 
+#bootstrap gem
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'sprockets', '2.11.0'
+
+#gem user form
+gem 'simple_form'
+
+#Pagination gem
+gem 'will_paginate', '~> 3.0.6'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
