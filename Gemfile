@@ -9,6 +9,9 @@ gem 'sprockets', '2.11.0'
 #gem user form
 gem 'simple_form'
 
+#gem Devise user authentication
+gem 'devise', '>= 3.2.4'
+
 #Pagination gem
 gem 'will_paginate', '~> 3.0.6'
 
