@@ -15,6 +15,12 @@ gem 'devise', '>= 3.2.4'
 #Pagination gem
 gem 'will_paginate', '~> 3.0.6'
 
+#Map location gem
+gem "geocoder"
+
+#Figaro gem to use ENV variable to hide API key
+gem "figaro", ">= 1.0.0"
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
