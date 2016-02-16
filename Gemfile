@@ -21,6 +21,9 @@ gem "geocoder"
 #Figaro gem to use ENV variable to hide API key
 gem "figaro", ">= 1.0.0"
 
+#gem Carrierwave to upload images
+gem 'carrierwave'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'

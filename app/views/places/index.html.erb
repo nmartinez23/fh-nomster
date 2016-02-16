@@ -23,7 +23,8 @@
 <% if place.photos.present? %>  
   <div class="col-xs-12">
     <blockquote>
-  	  <b><%= place.photos.last.caption %></b> -
+      <%= image_tag photo.picture %> 
+  	  <%= place.photos.last.caption %>
     </blockquote>
   </div>
 <% end %>
