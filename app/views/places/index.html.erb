@@ -20,13 +20,12 @@
 	</div>
   <% end %>
 
-<% if place.photos.present? %>  
-  <div class="col-xs-12">
-    <blockquote>
-      <%= image_tag photo.picture %> 
-  	  <%= place.photos.last.caption %>
-    </blockquote>
-  </div>
+<% if place.photos.present? %>
+    <div class="col-xs-12 col-sm-6">
+        <blockquote>
+              <b><%= image_tag place.photos.last, class: 'img-responsive' %></b>
+        </blockquote>
+      </div>
 <% end %>
 
   </div>
