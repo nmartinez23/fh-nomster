@@ -16,7 +16,7 @@ gem 'devise', '>= 3.2.4'
 gem 'will_paginate', '~> 3.0.6'
 
 #Map location gem
-gem "geocoder"
+gem "geocoder", "1.3.4"
 
 #Figaro gem to use ENV variable to hide API key
 gem "figaro", ">= 1.0.0"
