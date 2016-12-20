@@ -1,4 +1,20 @@
 == Nomster Pizza Review App
 
-This application was built with Ruby on Rails. Visitors can search pizza restaurants and read user reviews. Users can register and add their own reviews and photos of pizza restaurants they have been to.
+Deployed to Heroku: http://nomster-nick-martinez.herokuapp.com/
+
+This application allows visitors to search pizza restaurants, see map location and read user reviews. Users can register an account, add their own reviews and photos of pizza restaurants they have been to.
+
+The following technologies were used:
+
+* Ruby on Rails
+* PostgreSQL database
+* Heroku hosting
+* Devise user forms
+* Geocoder gem and Bing maps API
+* Bootstrap SASS
+* AWS for user images
+
+== Test the application
+
+You can download or clone the files to run locally. You will need to know how to navigate the Rails framework as the functionality is spread across the files in the Controller, Model and View folders.
 
