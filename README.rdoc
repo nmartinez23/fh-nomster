@@ -9,7 +9,7 @@ The following technologies were used:
 * Ruby on Rails
 * PostgreSQL database
 * Heroku hosting
-* Devise user forms
+* Devise user authentication
 * Geocoder gem and Bing maps API
 * Bootstrap SASS
 * AWS for user images
