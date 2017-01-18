@@ -1,8 +1,10 @@
 == Nomster Pizza Review App
 
+This application allows visitors to search pizza restaurants, see map location and read user reviews. Users can register an account, add their own reviews and photos of pizza restaurants they have been to.
+
 Deployed to Heroku: http://nomster-nick-martinez.herokuapp.com/
 
-This application allows visitors to search pizza restaurants, see map location and read user reviews. Users can register an account, add their own reviews and photos of pizza restaurants they have been to.
+https://cloud.githubusercontent.com/assets/14083180/22069400/2a1c9b1a-dd4d-11e6-83ba-645117e5b8df.png
 
 The following technologies were used:
 
